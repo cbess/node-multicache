@@ -1,0 +1,13 @@
+{
+    "name": "multicache",
+    "description": "Cache system thats supports multiple cache backends, using a consistent API.",
+    "version": "1.0",
+    "private": true,
+    "dependencies": {
+        "memcache": "*",
+        "node-cache": "*",
+        "nodeunit": "*",
+        "MD5": "*",
+        "sha1": "*"
+    }
+}
